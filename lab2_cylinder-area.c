@@ -19,5 +19,4 @@ int main(int argc, char*argv[]){
         double area = ((2*(PI))*(radius)*(height)) + ((2*(PI))*(radius * radius));
         printf("%.2f", area);
     }
-    printf("%d", argc);
 }
